@@ -2,13 +2,13 @@
 
 ### Two ways to use it:
 
-###  Interactive Mode  
+### 1 Interactive Mode  
 Paste or type input (blank line to finish):
 
 ```bash
 python ip_arranger.py
 
-2️⃣Inline Mode
+### 2 Inline Mode
 
 Pass IP addresses directly as arguments:
 
